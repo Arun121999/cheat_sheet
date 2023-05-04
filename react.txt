@@ -1,0 +1,11 @@
+React Installation
+-sudo apt install npm
+-npm --version
+-node --version
+-sudo npm -g install create-react-app (React tool install for the ease installation)
+-create-react-app --version
+-create-react-app tecmint-app (create the react app using the tool)
+-cd tecmint-app
+-npm start
+
+http://server-ip:3000
